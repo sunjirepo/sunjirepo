@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sunjirepo&theme=algolia&show_icons=true&show=contributions&custom_title=My%20GitHub%20Stats)](https://github.com/stats-organization/github-stats-extended)
+[![sunji's GitHub stats](https://github-stats-extended.vercel.app/api?username=sunjirepo&count_private=true&theme=algolia&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
